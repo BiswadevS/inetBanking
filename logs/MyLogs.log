@@ -1,0 +1,86 @@
+[INFO ] 2022-10-31 22:11:26.284 [main] BaseClass - URL is opened
+[INFO ] 2022-10-31 22:11:27.520 [main] BaseClass - Username is entered
+[INFO ] 2022-10-31 22:11:27.674 [main] BaseClass - Password is entered
+[INFO ] 2022-10-31 22:48:20.950 [main] BaseClass - URL is opened
+[INFO ] 2022-10-31 22:48:21.417 [main] BaseClass - Username is entered
+[INFO ] 2022-10-31 22:48:22.555 [main] BaseClass - Password is entered
+[INFO ] 2022-10-31 22:56:14.536 [main] BaseClass - URL is opened
+[INFO ] 2022-10-31 22:56:14.990 [main] BaseClass - Username is entered
+[INFO ] 2022-10-31 22:56:15.521 [main] BaseClass - Password is entered
+[INFO ] 2022-11-02 02:21:58.240 [main] BaseClass - URL is opened
+[INFO ] 2022-11-02 02:21:58.487 [main] BaseClass - Username is entered
+[INFO ] 2022-11-02 02:21:58.816 [main] BaseClass - Password is entered
+[INFO ] 2022-11-02 15:06:00.638 [main] BaseClass - username provided
+[INFO ] 2022-11-02 15:06:00.871 [main] BaseClass - password provided
+[INFO ] 2022-11-02 15:06:07.921 [main] BaseClass - username provided
+[INFO ] 2022-11-02 15:06:08.059 [main] BaseClass - password provided
+[INFO ] 2022-11-02 15:06:13.569 [main] BaseClass - Login passed
+[INFO ] 2022-11-02 17:16:30.339 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:16:30.480 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:17:40.588 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:17:40.750 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:20:23.041 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:20:23.314 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:23:21.673 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:23:22.520 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:24:31.546 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:24:31.968 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:31:19.554 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:31:20.146 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:31:27.153 [main] BaseClass - providing customer details....
+[INFO ] 2022-11-02 17:36:12.913 [main] BaseClass - Username is provided
+[INFO ] 2022-11-02 17:36:13.651 [main] BaseClass - Password is provided
+[INFO ] 2022-11-02 17:36:20.362 [main] BaseClass - providing customer details....
+[INFO ] 2022-11-03 13:33:04.383 [main] BaseClass - Username is provided
+[INFO ] 2022-11-03 13:33:04.631 [main] BaseClass - Password is provided
+[INFO ] 2022-11-03 13:33:11.281 [main] BaseClass - providing customer details....
+[INFO ] 2022-11-03 13:40:31.811 [main] BaseClass - Username is provided
+[INFO ] 2022-11-03 13:40:32.062 [main] BaseClass - Password is provided
+[INFO ] 2022-11-03 13:40:37.707 [main] BaseClass - providing customer details....
+[INFO ] 2022-11-03 15:05:25.268 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:05:25.595 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:05:25.796 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:10:05.130 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:10:05.659 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:10:05.841 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:19:14.456 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:19:15.383 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:19:15.558 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:20:21.751 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:20:22.500 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:20:22.637 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:20:23.454 [main] BaseClass - Login test failed
+[INFO ] 2022-11-03 15:21:59.553 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:21:59.949 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:22:00.194 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:22:02.270 [main] BaseClass - Login test failed
+[INFO ] 2022-11-03 15:23:23.756 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:23:24.040 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:23:24.167 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:23:26.776 [main] BaseClass - Login test passed
+[INFO ] 2022-11-03 15:27:48.656 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:27:49.245 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:27:49.426 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:27:51.145 [main] BaseClass - Login test passed
+[INFO ] 2022-11-03 15:31:38.026 [main] BaseClass - URL is opened
+[INFO ] 2022-11-03 15:31:38.280 [main] BaseClass - Username is entered
+[INFO ] 2022-11-03 15:31:39.311 [main] BaseClass - Password is entered
+[INFO ] 2022-11-03 15:31:41.006 [main] BaseClass - Login test passed
+[INFO ] 2022-11-03 15:31:49.614 [main] BaseClass - username provided
+[INFO ] 2022-11-03 15:31:49.762 [main] BaseClass - password provided
+[INFO ] 2022-11-03 15:31:57.115 [main] BaseClass - username provided
+[INFO ] 2022-11-03 15:31:57.809 [main] BaseClass - password provided
+[INFO ] 2022-11-03 15:32:04.668 [main] BaseClass - Login passed
+[INFO ] 2022-11-03 15:32:11.475 [main] BaseClass - username provided
+[INFO ] 2022-11-03 15:32:11.694 [main] BaseClass - password provided
+[INFO ] 2022-11-03 15:32:17.799 [main] BaseClass - username provided
+[INFO ] 2022-11-03 15:32:18.606 [main] BaseClass - password provided
+[INFO ] 2022-11-03 15:32:25.863 [main] BaseClass - username provided
+[INFO ] 2022-11-03 15:32:25.989 [main] BaseClass - password provided
+[INFO ] 2022-11-03 15:32:30.985 [main] BaseClass - Login passed
+[INFO ] 2022-11-03 15:32:42.987 [main] BaseClass - Username is provided
+[INFO ] 2022-11-03 15:32:44.092 [main] BaseClass - Password is provided
+[INFO ] 2022-11-03 15:32:51.287 [main] BaseClass - providing customer details....
+[INFO ] 2023-01-03 17:06:50.017 [main] BaseClass - URL is opened
+[INFO ] 2023-01-03 17:06:50.618 [main] BaseClass - Username is entered
+[INFO ] 2023-01-03 17:06:50.948 [main] BaseClass - Password is entered
